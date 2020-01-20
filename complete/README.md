@@ -1,8 +1,8 @@
-###Adaptation of tutorial https://spring.io/guides/gs/consuming-rest/ for use with <link> https://swapi.co/</link>  
+## Adaptation of tutorial https://spring.io/guides/gs/consuming-rest/ for use with <link> https://swapi.co/</link>  
 Notes:
 * additional method SimpleClientHttpRequestFactory (with helpers) needed to compensate for proxy
 
-###To do: 
+### To do: 
 * separate coding - as per company standards - into: 
   * service
   * web.controller: provides the web pages
